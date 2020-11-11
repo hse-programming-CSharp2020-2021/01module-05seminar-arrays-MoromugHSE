@@ -1,0 +1,13 @@
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\bin\Debug\netcoreapp3.1\Task05.exe
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\bin\Debug\netcoreapp3.1\Task05.deps.json
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\bin\Debug\netcoreapp3.1\Task05.runtimeconfig.json
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\bin\Debug\netcoreapp3.1\Task05.runtimeconfig.dev.json
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\bin\Debug\netcoreapp3.1\Task05.dll
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\bin\Debug\netcoreapp3.1\Task05.pdb
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\obj\Debug\netcoreapp3.1\Task05.csprojAssemblyReference.cache
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\obj\Debug\netcoreapp3.1\Task05.AssemblyInfoInputs.cache
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\obj\Debug\netcoreapp3.1\Task05.AssemblyInfo.cs
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\obj\Debug\netcoreapp3.1\Task05.csproj.CoreCompileInputs.cache
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\obj\Debug\netcoreapp3.1\Task05.dll
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\obj\Debug\netcoreapp3.1\Task05.pdb
+D:\VS_Projects\HW_5_Templates\01module-05seminar-arrays-MoromugHSE\Task05\obj\Debug\netcoreapp3.1\Task05.genruntimeconfig.cache
