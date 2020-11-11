@@ -49,7 +49,7 @@ namespace Task02
             arr[0] = 1;
             for (long i = 1; i < N; ++i)
             {
-                arr[i] = arr[i - 1] * N;
+                arr[i] = arr[i - 1] * 2;
             }
         }
     }
