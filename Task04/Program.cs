@@ -26,20 +26,20 @@ namespace Task04
 
         public static void RunTask04()
         {
-            int N = int.Parse(Console.ReadLine());
+            long N = long.Parse(Console.ReadLine());
 
-            int A, D;
+            long A, D;
             // TODO: считайте необходимые значения A и D
-            A = int.Parse(Console.ReadLine());
-            D = int.Parse(Console.ReadLine());
+            A = long.Parse(Console.ReadLine());
+            D = long.Parse(Console.ReadLine());
             // TODO: инициализируйте массив и передайте его в соответствующий метод вместе с необходимыми значениями 
-            int[] array = new int[N];
+            long[] array = new long[N];
             FillArray(array, A, D);
             // TODO: выведите массив на экран
             PrintArray(array);
         }
 
-        private static void PrintArray(int[] arr)
+        private static void PrintArray(long[] arr)
         {
             foreach (var el in arr)
             {
@@ -48,11 +48,11 @@ namespace Task04
             Console.WriteLine();
         }
 
-        static void FillArray(int[] arr, int A, int D)
+        static void FillArray(long[] arr, long A, long D)
         {
             // TODO: заполните массив соответствующими данными
             arr[0] = A;
-            for (int i=1; i < arr.Length; ++i)
+            for (long i=1; i < arr.Length; ++i)
             {
                 arr[i] = arr[i - 1] + D;
             }

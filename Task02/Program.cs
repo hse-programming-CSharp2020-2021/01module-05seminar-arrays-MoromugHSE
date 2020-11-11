@@ -24,17 +24,17 @@ namespace Task02
 
         public static void RunTask02()
         {
-            int N = int.Parse(Console.ReadLine());
+            long N = long.Parse(Console.ReadLine());
 
             // TODO: инициализируйте массив и передайте его в соответствующий метод
-            int[] array = new int[N];
+            long[] array = new long[N];
             FillArray(ref array, N);
 
             // TODO: выведите массив на экран
             PrintArray(array);
         }
 
-        private static void PrintArray(int[] arr)
+        private static void PrintArray(long[] arr)
         {
             foreach (var el in arr)
             {
@@ -43,11 +43,11 @@ namespace Task02
             Console.WriteLine();
         }
 
-        static void FillArray(ref int[] arr, int N)
+        static void FillArray(ref long[] arr, long N)
         {
             // TODO: заполните массив соответствующими данными
             arr[0] = 1;
-            for (int i = 1; i < N; ++i)
+            for (long i = 1; i < N; ++i)
             {
                 arr[i] = arr[i - 1] * N;
             }
